@@ -1,4 +1,5 @@
-var images = ['file:///C:/Users/Buraimi3/Desktop/lp/jaimi/image/1.jpeg'];
+var images = ['images/1.jpeg'];
+
 
 var currentIndex = 0;
 var totalClicks = 0;
@@ -16,7 +17,7 @@ function randomizeImage() {
     puzzleItems[i].style.top = Math.random() * (window.innerHeight - 500) + 'px';
   }
 }
-var images = ['file:///C:/Users/Buraimi3/Desktop/lp/jaimi/image/1.jpeg'];
+var images = ['images/1.jpeg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
@@ -120,7 +121,3 @@ function drop(ev) {
     }
   }
 }
-
-
-
-
