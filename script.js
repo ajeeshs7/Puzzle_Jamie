@@ -1,4 +1,4 @@
-var images = ['images/alfy.jpeg.jpeg'];
+var images = ['images/alfy2.jpeg.jpeg'];
 
 
 var currentIndex = 0;
@@ -17,7 +17,7 @@ function randomizeImage() {
     puzzleItems[i].style.top = Math.random() * (window.innerHeight - 500) + 'px';
   }
 }
-var images = ['images/alfy.jpeg.jpeg'];
+var images = ['images/alfy2.jpeg.jpeg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
