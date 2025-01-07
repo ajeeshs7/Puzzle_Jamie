@@ -17,7 +17,7 @@ function randomizeImage() {
     puzzleItems[i].style.top = Math.random() * (window.innerHeight - 500) + 'px';
   }
 }
-var images = ['images/1.jpeg'];
+var images = ['images/WhatsApp Image 2025-01-06 at 8.14.54 PM.jpeg'];
 
 var currentIndex = 0;
 var totalClicks = 0;
