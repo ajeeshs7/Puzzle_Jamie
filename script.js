@@ -1,4 +1,4 @@
-var images = ['images/alfy2.jpeg.jpeg'];
+var images = ['images/puzzle.jpg'];
 
 
 var currentIndex = 0;
